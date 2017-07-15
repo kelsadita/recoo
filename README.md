@@ -10,4 +10,4 @@ pip install recoo
 
 # Screenshots
 
-![](http://recordit.co/HAhv3HnxBY)
+![](http://g.recordit.co/HAhv3HnxBY.gif)
