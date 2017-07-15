@@ -1,0 +1,92 @@
+{
+  "Similar": {
+    "Info": [
+      {
+        "Name": "Inception",
+        "Type": "movie"
+      }
+    ],
+    "Results": [
+      {
+        "Name": "Shutter Island",
+        "Type": "movie"
+      },
+      {
+        "Name": "Source Code",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Social Network",
+        "Type": "movie"
+      },
+      {
+        "Name": "Limitless",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Prestige",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Adjustment Bureau",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Dark Knight",
+        "Type": "movie"
+      },
+      {
+        "Name": "127 Hours",
+        "Type": "movie"
+      },
+      {
+        "Name": "Catch Me If You Can",
+        "Type": "movie"
+      },
+      {
+        "Name": "In Time",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Dark Knight Rises",
+        "Type": "movie"
+      },
+      {
+        "Name": "The King's Speech",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Departed",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Hurt Locker",
+        "Type": "movie"
+      },
+      {
+        "Name": "Blood Diamond",
+        "Type": "movie"
+      },
+      {
+        "Name": "Slumdog Millionaire",
+        "Type": "movie"
+      },
+      {
+        "Name": "Looper",
+        "Type": "movie"
+      },
+      {
+        "Name": "District 9",
+        "Type": "movie"
+      },
+      {
+        "Name": "Batman Begins",
+        "Type": "movie"
+      },
+      {
+        "Name": "The Illusionist",
+        "Type": "movie"
+      }
+    ]
+  }
+}
