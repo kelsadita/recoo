@@ -40,7 +40,8 @@ class TasteDiveApi(object):
         """
         Calling tastedive api with query string
         """
-        taste_api_url_template = "https://tastedive.com/api/similar?k=$api_key&q=$api_query"
+        taste_api_url_template = \
+            "https://tastedive.com/api/similar?k=$api_key&q=$api_query"
         taste_params = {
             'api_key': os.environ['TASTE_API_KEY'],
             'api_query': query
