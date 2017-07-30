@@ -9,7 +9,6 @@ import clr
 
 from terminaltables import AsciiTable
 
-
 class TasteDiveApi(object):
     """
     All taste dive api related functions
@@ -30,6 +29,9 @@ class TasteDiveApi(object):
 
     @staticmethod
     def print_query_information(query_info):
+        """
+        Print the query classification result retrieved for Taste Dive api.
+        """
         name = query_info[0].get('Name')
         predicted_type = query_info[0].get('Type')
         print(clr.bold('Name          : '), clr.yellow(name))
@@ -41,7 +43,7 @@ class TasteDiveApi(object):
         Calling tastedive api with query string
         """
         taste_api_url_template = \
-            "https://tastedive.com/api/similar?k=$api_key&q=$api_query"
+            "http://tastedive.com/api/similar?k=$api_key&q=$api_query"
         taste_params = {
             'api_key': os.environ['TASTE_API_KEY'],
             'api_query': query
